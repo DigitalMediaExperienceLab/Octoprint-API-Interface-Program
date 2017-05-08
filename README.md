@@ -15,3 +15,5 @@ Allows access to the Octoprint API through interfaces like the command line of a
  > With an -a argument at all times, to specify the API key of the target instance
  
  > With an -r option to specify th adress and port of the remote machine (ie 0.0.0.0:5000) unless the machine in question is the same as that which the command is invoked on (in which case the API may be acessed through the 'localhost' software loopback)
+
+EDIT: ez-pz - Kieran
